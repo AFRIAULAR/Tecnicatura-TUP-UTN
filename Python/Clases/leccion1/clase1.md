@@ -15,4 +15,4 @@ Dinamico: Puedo cambiar el tipo de dato de la variable
 
 Hola mundo
 
-[Ver Main linea 3](/Clases/main.py)
+[Ver Main linea 3](/Clases/leccion1/main.py)

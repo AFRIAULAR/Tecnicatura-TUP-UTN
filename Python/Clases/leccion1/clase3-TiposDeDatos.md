@@ -62,7 +62,7 @@ No pueden cumplirse ambas, o es verdadero o es falso, existe o no existe
       else: print("El resultado es falso")
 
 
-[Ver Main linea 55](/Clases/main.py)
+[Ver Main linea 55](/Clases/leccion1/main.py)
 
 
 ## INPUTS - Entradas de usuario
@@ -72,7 +72,7 @@ No pueden cumplirse ambas, o es verdadero o es falso, existe o no existe
 
       resultado = input()
       print(resultado)
-[Ver Main linea 62](/Clases/main.py)  
+[Ver Main linea 62](/Clases/leccion1/main.py)  
 
 ### Conversión de entrada de datos
     numero1 = input("Escribe el primer numero ")
@@ -80,7 +80,7 @@ No pueden cumplirse ambas, o es verdadero o es falso, existe o no existe
     resultado = int(numero1) + int(numero2)
     print("El resultado de la suma es", resultado)
 
-[Ver Main linea 66](/Clases/main.py) 
+[Ver Main linea 66](/Clases/leccion1/main.py) 
 
 ##### Ejercicios
 ###### [1 "Como estuvo tu dia"](/Ejercicios/ejercicio1.py) 

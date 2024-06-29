@@ -18,7 +18,7 @@
 
     print (variable) <- funcion que ejecuta el código en la terminal
     id(variable) <- Direccion de memoria a donde apunta
-[Ver Main linea 5](/Clases/main.py)
+[Ver Main linea 5](/Clases/leccion1/main.py)
 
 Memoria: Python almacena un valor por variable,literal, unica, si cambiamos el valor de la variable cambia la literal.
 Para ver el valor de la literal existe la funcion
@@ -26,5 +26,5 @@ Para ver el valor de la literal existe la funcion
     id(variable)
 Las literales o referencias de memoria se expresan: x416 por ejemplo
 
-[Ver Main linea 17](/Clases/main.py)
+[Ver Main linea 17](/Clases/leccion1/main.py)
 

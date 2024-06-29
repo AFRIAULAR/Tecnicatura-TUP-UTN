@@ -13,14 +13,14 @@
 
       print(f('string {variable}'))
 
-[Ver Main linea 73](/Clases/main.py) 
+[Ver Main linea 73](/Clases/leccion1/main.py) 
 
 #### Operador de reasignacion
 
       miVariable3 = 10
       miVariable3 += 1
       print(miVariable3)
-[Ver Main linea 110](/Clases/main.py) 
+[Ver Main linea 110](/Clases/leccion1/main.py) 
 
 #### Operadores de comparación
 Comparan entre el valor de una variable y otro, devuelven un valor booleano
@@ -31,7 +31,7 @@ Comparan entre el valor de una variable y otro, devuelven un valor booleano
       <   menor que
       >=  mayor igual que
       <=  menor igual que
-[Ver Main linea 115](/Clases/main.py) 
+[Ver Main linea 115](/Clases/leccion1/main.py) 
 
 ##### Ejercicios
 ###### [Rectángulo](/Ejercicios/ejercicioRectangulo.py) 

@@ -5,7 +5,7 @@
     or    Devuelve True si alguno de los operandos es True         a or b
     not   Devuelve False si alguno de los operandos es True         not a
 
-[Ver Main linea 145](/Clases/main.py) 
+[Ver Main linea 145](/Clases/leccion1/main.py) 
 
 
 ##### Ejercicios

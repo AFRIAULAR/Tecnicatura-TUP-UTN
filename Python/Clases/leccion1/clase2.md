@@ -16,15 +16,29 @@
       = : asignacion
       3 : valor
 
-    print (variable) <- funcion que ejecuta el código en la terminal
-    id(variable) <- Direccion de memoria a donde apunta
-[Ver Main linea 5](/Clases/leccion1/main.py)
+print (variable) <- funcion que ejecuta el código en la terminal
+id(variable) <- Direccion de memoria a donde apunta
+
+```python
+
+            miVariable = 3
+            print(miVariable)  # Output: 3
+            miVariable = "Hola alumnos"
+            print(miVariable)  # Output: Hola alumnos
+            miVariable = 3.5
+            print(miVariable)  # Output: 3.5
+```
 
 Memoria: Python almacena un valor por variable,literal, unica, si cambiamos el valor de la variable cambia la literal.
 Para ver el valor de la literal existe la funcion
 
-    id(variable)
+```python           
+            id(variable)
+```
+
 Las literales o referencias de memoria se expresan: x416 por ejemplo
 
-[Ver Main linea 17](/Clases/leccion1/main.py)
+            print(id(x))  # Muestra la dirección en memoria de x
+            
+[Ver Main](/Python/Clases/leccion1/main.py)
 

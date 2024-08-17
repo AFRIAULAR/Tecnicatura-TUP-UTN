@@ -1,5 +1,9 @@
-# Viene de leccion 3 clase 8
-#while
+# Descomenta el bloque de código que desees ejecutar.
+# Ejecuta el archivo para ver cómo funciona el código.
+# Modifica el código según lo necesites para experimentar y entender mejor los conceptos.
+
+# -------- Clase 6 --------
+# -----WHILE-----
 
 # contador=0
 # while contador <10:
@@ -8,20 +12,20 @@
 # else:
 #   print(f"Fin while")
 
-#for
+# -----FOR-----
 # cadena = "hello"
 # for letra in cadena:
 #   print(letra)
 # else:
 #   print("fin del for")
 
-#BREAK
+# -----BREAK-----
 # for letra in "Alemania":
 #   if letra == "a":
 #     print(f"letra encontrada")
 #     break
 
-#continue
+# -----CONTINUE-----
 for i in range(6):
   if i % 2 == 0:
     continue

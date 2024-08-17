@@ -1,3 +1,7 @@
+# Descomenta el bloque de código que desees ejecutar.
+# Ejecuta el archivo para ver cómo funciona el código.
+# Modifica el código según lo necesites para experimentar y entender mejor los conceptos.
+
 '''
 EJERCICIO 3 
 Calcular estacion del año

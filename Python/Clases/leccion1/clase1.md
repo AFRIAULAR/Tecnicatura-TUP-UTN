@@ -1,18 +1,29 @@
-# CLASE1 LABORATORIO PYTHON
-1. Descargar Python.org
-2. Descargar pycharm community (IDE)
+### Clase 1: Laboratorio Python
 
-## Características
-Creado en 1991 por Guido van Rossum
-Multiparadigma (POO, Iterativa, Funcional, Cualquier SO)
-Simple y minimalista
-Sintaxis en ingles
-Interpretado-> intruccion por instruccion
-Dinamico: Puedo cambiar el tipo de dato de la variable
+#### 1. Instalación de Python y Entorno de Desarrollo
 
-## Entornos: 
-*VSC *Pycharm *Pydev(eclipse)
+- **Descargar Python:** [Python.org](https://www.python.org/downloads/)
+- **Descargar PyCharm Community Edition:** [JetBrains PyCharm](https://www.jetbrains.com/pycharm/download/)
 
-Hola mundo
+#### 2. Características de Python
 
-[Ver Main linea 3](/Clases/leccion1/main.py)
+- **Creado en:** 1991 por Guido van Rossum
+- **Paradigmas:** Multiparadigma (POO, Iterativo, Funcional)
+- **Compatibilidad:** Funciona en cualquier Sistema Operativo
+- **Sintaxis:** Simple, minimalista y en inglés
+- **Interpretado:** Ejecuta instrucción por instrucción
+- **Dinámico:** Las variables pueden cambiar su tipo de dato durante la ejecución
+
+#### 3. Entornos de Desarrollo Integrados (IDE)
+
+- **Visual Studio Code (VSC)**
+- **PyCharm**
+- **PyDev (Eclipse)**
+
+---
+
+### Ejemplo de Código: Hola Mundo
+
+```python
+            print('Hola Mundo')
+```

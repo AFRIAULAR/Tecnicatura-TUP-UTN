@@ -1,5 +1,8 @@
-# VIENE DE CLASES - LECCION 2
-# CLASE 6
+# Descomenta el bloque de código que desees ejecutar.
+# Ejecuta el archivo para ver cómo funciona el código.
+# Modifica el código según lo necesites para experimentar y entender mejor los conceptos.
+
+# -------- Clase 6 --------
 
 # condicion = True
 # if condicion:{

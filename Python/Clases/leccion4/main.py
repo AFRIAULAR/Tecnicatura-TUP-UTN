@@ -5,7 +5,7 @@
 # -------- CLASE  LECCION 4 --------
 
 # -----LISTAS-----
-nombres = ['Naty', 'Osvaldo', 'Lily', 'Ariel']
+# nombres = ['Naty', 'Osvaldo', 'Lily', 'Ariel']
 
 # print(nombres)
 # print(nombres[3])
@@ -59,3 +59,28 @@ nombres = ['Naty', 'Osvaldo', 'Lily', 'Ariel']
 #### CLEAR
 # nombres.clear()
 # print(nombres) #[]
+
+
+# ------- TUPLAS -------
+cocina = ('cuchara', 'cuchillo', 'tenedor')
+print(cocina)
+
+# #longitud
+# print(len(cocina))   #3
+
+# #acceder a un elemento
+# print(cocina[2])  #tenedor
+# print(cocina[-1]) #tenedor,
+
+# #acceder a un rango
+# print(cocina[0:1])  #('cuchara',)
+
+#para eliminar el salto de linea de la funcion print:
+# for cocinar in cocina:
+#   print(cocinar, end=' ')
+
+# Paso de tupla a lista:
+# cocinaLista = list(cocina)
+# cocinaLista[0] = 'plato'
+# cocina = tuple(cocinaLista)
+# print(cocina)
